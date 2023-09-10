@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Slava-Slava/js-7.2node/issues"
   },
-  "homepage": "https://github.com/Slava-Slava/js-7.2node#readme"
+  "homepage": "https://github.com/Slava-Slava/js-7.2node#readme",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
 }
